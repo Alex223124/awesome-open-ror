@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Teikei](https://github.com/teikei/teikei) - A web application for managing groups and farmers following the idea of community-supported agriculture.
 * [Neighborly](https://github.com/neighborly/) - Community Investment Marketplace 
 * [Bikeindex](https://github.com/bikeindex/bike_index) - Bicycle Incident reporting
+* [Ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP 
 
 ## Sports 
 
