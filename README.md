@@ -34,6 +34,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Racing-on-rails](https://github.com/scottwillson/racing_on_rails) - Manage a bike racing association: riders, teams, calendars, competitions, and results
 
+## Marketplaces
+
+* [Rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
+
 ## Other-awesome-lists 
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
