@@ -12,12 +12,20 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Awesome ROR](#awesome-ror)
   * [Crowdfunding](#crowdfunding)
+  * [Community Support](#community-support)
+  
 
 * [Other Awesome Lists](#other-awesome-lists)
 
 ## Crowdfunding 
 
 * [Producerun](https://github.com/producerun/producerun) - The first open source crowd buying from the farmers to your local communities.
+
+## Community-support 
+
+* [Teikei](https://github.com/teikei/teikei) - A web application for managing groups and farmers following the idea of community-supported agriculture.
+
+
 
 
 ## Other-awesome-lists 
