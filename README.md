@@ -33,6 +33,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Neighborly](https://github.com/neighborly/) - Community Investment Marketplace 
 * [Bikeindex](https://github.com/bikeindex/bike_index) - Bicycle Incident reporting
 * [Ekylibre](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP 
+* [Growstuff](https://github.com/Growstuff/growstuff) - Grow your food
+* [Planning Alerts](https://github.com/openaustralia/planningalerts-app) - Find out and have your say about what's being built and knocked down in your area.
+* [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
+
 
 ## Sports 
 
@@ -52,10 +56,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Cyber-doj](http://cyber-dojo.org/) - learn to code live in browser
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm) - Learn to farm or garden with community created guides
-
-
-
-
+* [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
 
 ## Other-awesome-lists 
 
