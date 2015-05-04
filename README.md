@@ -46,11 +46,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Social-networks
 
 * [Coderwall](https://coderwall.com/) - Professional network for software engineers 
+* [iNaturalist](https://github.com/inaturalist/inaturalist) - iNaturalist is a global online social network of naturalists.
 
 ## Learning
 
-* [Cyber-doj](http://cyber-dojo.org/) - Free in-browser coding-dojo, running live 
-* [iNaturalist](https://github.com/inaturalist/inaturalist) - iNaturalist is a global online social network of naturalists.
+* [Cyber-doj](http://cyber-dojo.org/) - learn to code live in browser
+* [OpenFarm](https://github.com/openfarmcc/OpenFarm) - Learn to farm or garden with community created guides
+
 
 
 
