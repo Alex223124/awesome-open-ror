@@ -19,14 +19,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Crowdfunding 
 
-* [Producerun](https://github.com/producerun/producerun) - The first open source crowd buying from the farmers to your local communities.
+* [Producerun](https://github.com/producerun/producerun) - Crowd buying from the farmers to your local communities.
+* [Catarse](https://github.com/catarse/catarse) - Crowdfunding platform for creative projects in the world.
 
 ## Community-support 
 
 * [Teikei](https://github.com/teikei/teikei) - A web application for managing groups and farmers following the idea of community-supported agriculture.
-
-
-
 
 ## Other-awesome-lists 
 
