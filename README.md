@@ -14,6 +14,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Crowdfunding](#crowdfunding)
   * [Community Support](#community-support)
   * [Sports](#sports)
+  * [Marketplaces](#marketplaces)
   
 
 * [Other Awesome Lists](#other-awesome-lists)
@@ -38,7 +39,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
 * [Sharetribe](https://www.sharetribe.com) - Marketplace platform with payPal integration
-
 
 
 
