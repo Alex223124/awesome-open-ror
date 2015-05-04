@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Awesome ROR](#awesome-ror)
   * [Crowdfunding](#crowdfunding)
   * [Community Support](#community-support)
+  * [Sports](#sports)
   
 
 * [Other Awesome Lists](#other-awesome-lists)
@@ -27,6 +28,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Teikei](https://github.com/teikei/teikei) - A web application for managing groups and farmers following the idea of community-supported agriculture.
 * [Neighborly](https://github.com/neighborly/) - Community Investment Marketplace 
 * [Bikeindex](https://github.com/bikeindex/bike_index) - Bicycle Incident reporting
+
+## Sports 
+
+* [Racing-on-rails](https://github.com/scottwillson/racing_on_rails) - Manage a bike racing association: riders, teams, calendars, competitions, and results
 
 ## Other-awesome-lists 
 
