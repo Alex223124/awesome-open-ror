@@ -15,6 +15,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Community Support](#community-support)
   * [Sports](#sports)
   * [Marketplaces](#marketplaces)
+  * [Social Networks](#social-networks)
+  * [Learning platform](#learning)
+  
   
 
 * [Other Awesome Lists](#other-awesome-lists)
@@ -40,6 +43,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
 * [Sharetribe](https://www.sharetribe.com) - Marketplace platform with payPal integration
 
+## Social-networks
+
+* [Coderwall](https://coderwall.com/) - Professional network for software engineers 
+
+## Learning
+
+* [Cyber-doj](http://cyber-dojo.org/) - Free in-browser coding-dojo, running live 
 
 
 ## Other-awesome-lists 
