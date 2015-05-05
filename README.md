@@ -40,7 +40,6 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
 * [Alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
 
-
 ## Sports 
 
 * [Racing-on-rails](https://github.com/scottwillson/racing_on_rails) - Manage a bike racing association: riders, teams, calendars, competitions, and results
@@ -56,6 +55,7 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 
 * [Coderwall](https://coderwall.com/) - Professional network for software engineers 
 * [iNaturalist](https://github.com/inaturalist/inaturalist) - iNaturalist is a global online social network of naturalists.
+* [Askaway](https://github.com/askaway/askaway) - Ask the parties your questions this election.. 
 
 ## Learning
 
