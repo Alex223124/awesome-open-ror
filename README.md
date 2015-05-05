@@ -38,6 +38,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Growstuff](https://github.com/Growstuff/growstuff) - Grow your food
 * [Planning Alerts](https://github.com/openaustralia/planningalerts-app) - Find out and have your say about what's being built and knocked down in your area.
 * [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
+* [Alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
+
 
 ## Sports 
 
