@@ -8,7 +8,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/itmilos/awesome-open-ror/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors).
+Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/contributors).
 
 * [Awesome ROR](#awesome-ror)
   * [Crowdfunding](#crowdfunding)
