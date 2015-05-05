@@ -19,8 +19,7 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
   * [Learning platform](#learning)
   * [Business Help](#business-help)
   * [Sharing](#sharing)
-  
-  
+  * [Dashboard](#dashboard)
 
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -38,7 +37,8 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Growstuff](https://github.com/Growstuff/growstuff) - Grow your food
 * [Planning Alerts](https://github.com/openaustralia/planningalerts-app) - Find out and have your say about what's being built and knocked down in your area.
 * [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
-* [Alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction
+* [Alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdictiond
+* [Onebody](https://github.com/churchio/onebody) - Private member portal for churches, built with Ruby on Rails 
 
 ## Sports 
 
@@ -63,15 +63,25 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm) - Learn to farm or garden with community created guides
 * [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
 * [Eol](https://github.com/EOL/eol) - Encyclopedia of life
+* [Odin](https://github.com/EOL/eol) - The Odin Project: Learn Web Development for Free
 
 ## Business-help
 
 * [Leihs](https://github.com/zhdk/leihs) - An easy inventory handling system 
 * [Asakusa Satellite](http://www.codefirst.org/AsakusaSatellite) - A realtime chat application for developers 
+* [Tracks App](https://github.com/TracksApp/tracksapp.github.com) - Get things done right way
+
 
 ## Sharing 
 
 * [Madek](https://github.com/zhdk/madek) - Madek is a super-fancy system for sharing and cataloging images, video, audio and documents.
+
+## Dashboard 
+
+* [Dashing](http://shopify.github.com/dashing/) - The exceptionally handsome dashboard framework in Ruby and Coffeescript. 
+* [Descartes](https://github.com/obfuscurity/descartes) - Provide an additional level of insight and collaboration that is neither available nor appropriate for a real-time utility such as Tasseo.
+* [Lipstick](https://github.com/obfuscurity/lipstick) -  Lipstick is a unified dashboard for collecting and presenting Nagios activity across multiple sites. It uses a MongoDB database for storing Nagios site configuration and event data.
+* [Grafana](https://github.com/obfuscurity/grafana) - A beautiful, easy to use and feature rich Graphite dashboard replacement and graph editor. Visit grafana.org for screenshots, videos and feature descriptions.
 
 ## Other-awesome-lists 
 
