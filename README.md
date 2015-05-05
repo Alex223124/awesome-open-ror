@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Marketplaces](#marketplaces)
   * [Social Networks](#social-networks)
   * [Learning platform](#learning)
+  * [Business Help](#business-help)
   
   
 
@@ -57,6 +58,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Cyber-doj](http://cyber-dojo.org/) - learn to code live in browser
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm) - Learn to farm or garden with community created guides
 * [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
+
+## Business-help
 
 ## Other-awesome-lists 
 
