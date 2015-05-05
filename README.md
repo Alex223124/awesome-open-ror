@@ -39,7 +39,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Planning Alerts](https://github.com/openaustralia/planningalerts-app) - Find out and have your say about what's being built and knocked down in your area.
 * [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
 
-
 ## Sports 
 
 * [Racing-on-rails](https://github.com/scottwillson/racing_on_rails) - Manage a bike racing association: riders, teams, calendars, competitions, and results
@@ -66,7 +65,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Business-help
 
 * [Leihs](https://github.com/zhdk/leihs) - An easy inventory handling system 
-http://github.com/zhdk/leihs
+* [Asakusa Satellite](http://www.codefirst.org/AsakusaSatellite) - A realtime chat application for developers 
 
 ## Sharing 
 
