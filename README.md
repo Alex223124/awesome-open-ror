@@ -48,6 +48,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
 * [Sharetribe](https://www.sharetribe.com) - Marketplace platform with payPal integration
+* [Fairmondo](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users. 
+
 
 ## Social-networks
 
@@ -59,6 +61,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Cyber-doj](http://cyber-dojo.org/) - learn to code live in browser
 * [OpenFarm](https://github.com/openfarmcc/OpenFarm) - Learn to farm or garden with community created guides
 * [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
+* [Eol](https://github.com/EOL/eol) - Encyclopedia of life
 
 ## Business-help
 
