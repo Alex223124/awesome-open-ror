@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Social Networks](#social-networks)
   * [Learning platform](#learning)
   * [Business Help](#business-help)
+  * [Sharing](#sharing)
   
   
 
@@ -60,6 +61,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
 
 ## Business-help
+
+* [Leihs](https://github.com/zhdk/leihs) - An easy inventory handling system 
+http://github.com/zhdk/leihs
+
+## Sharing 
+
+* [Madek](https://github.com/zhdk/madek) - Madek is a super-fancy system for sharing and cataloging images, video, audio and documents.
 
 ## Other-awesome-lists 
 
