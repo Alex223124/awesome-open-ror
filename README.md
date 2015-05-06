@@ -39,6 +39,10 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Spokenvote](https://github.com/Spokenvote/spokenvote) - Social voting app for reaching consensus in a group of any size
 * [Alaveteli](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdictiond
 * [Onebody](https://github.com/churchio/onebody) - Private member portal for churches, built with Ruby on Rails 
+* [SAPOS](https://github.com/gems-uff/sapos) - main goal is to ease the management of information related to graduate programs such as enrollments, courses, advisement, scholarships, requirements, among others.
+* [Contribulator](https://github.com/andrew/contribulator) - Find open source project that are friendly and welcoming :)
+* [Contrib-hub](https://github.com/orendon/contrib-hub) - Open source lovers, making easier to find cool projects to hack on! Wanna help?
+* [CodeMontage](https://github.com/CodeMontageHQ/codemontage) -Empowers coders to improve their impact on the world. Find open source software projects with a social impact and save the world.
 
 ## Sports 
 
