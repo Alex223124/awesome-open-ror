@@ -71,6 +71,8 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Agile Ventures](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development.
 * [Eol](https://github.com/EOL/eol) - Encyclopedia of life
 * [Odin](https://github.com/EOL/eol) - The Odin Project: Learn Web Development for Free
+* [Ogma](https://github.com/maxcobmara/ogma) - Campus & Learning Management System
+
 
 ## Business-help
 
