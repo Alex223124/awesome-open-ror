@@ -43,6 +43,9 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Contribulator](https://github.com/andrew/contribulator) - Find open source project that are friendly and welcoming :)
 * [Contrib-hub](https://github.com/orendon/contrib-hub) - Open source lovers, making easier to find cool projects to hack on! Wanna help?
 * [CodeMontage](https://github.com/CodeMontageHQ/codemontage) -Empowers coders to improve their impact on the world. Find open source software projects with a social impact and save the world.
+* [Artfully](https://github.com/fracturedatlas/artfully_app) - Application to run your arts organization. Features include event ticketing, donation taking, and patron tracking. 
+* [Blood Donation](https://github.com/OpenSourceForNepal/BloodDonation) - Pair to Pair Blood Donation Service for Nepal
+* [BTC Stores](https://github.com/paladini/btc-stores) -  Directory of sites that accept Bitcoin
 
 ## Sports 
 
@@ -74,7 +77,7 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Leihs](https://github.com/zhdk/leihs) - An easy inventory handling system 
 * [Asakusa Satellite](http://www.codefirst.org/AsakusaSatellite) - A realtime chat application for developers 
 * [Tracks App](https://github.com/TracksApp/tracksapp.github.com) - Get things done right way
-
+* [TW Email Generator](https://github.com/andrewshawcare/thoughtworks-email-signature-generator) - Email signature generator
 
 ## Sharing 
 
