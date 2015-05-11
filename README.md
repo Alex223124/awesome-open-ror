@@ -92,6 +92,14 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Lipstick](https://github.com/obfuscurity/lipstick) -  Lipstick is a unified dashboard for collecting and presenting Nagios activity across multiple sites. It uses a MongoDB database for storing Nagios site configuration and event data.
 * [Grafana](https://github.com/obfuscurity/grafana) - A beautiful, easy to use and feature rich Graphite dashboard replacement and graph editor. Visit grafana.org for screenshots, videos and feature descriptions.
 
+## Vizualization 
+
+* [Seattle-Attractions](https://github.com/Seattle-Attractions/map) - Interactive map of Seattle's Premier Attractions
+* [Outflux](http://outflux.herokuapp.com/) - An interactive map of international refugee flows 
+* [Service-areas](https://github.com/ivancrneto/service-areas) - Little sample project where company owners can setup service areas by using polygons in maps api
+* [Start-map](https://start-map.herokuapp.com) - Startup company map 
+
+
 ## Other-awesome-lists 
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
