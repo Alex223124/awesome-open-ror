@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
   * [Business Help](#business-help)
   * [Sharing](#sharing)
   * [Dashboard](#dashboard)
+  * [Random](#random)
 
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -98,6 +99,12 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Outflux](http://outflux.herokuapp.com/) - An interactive map of international refugee flows 
 * [Service-areas](https://github.com/ivancrneto/service-areas) - Little sample project where company owners can setup service areas by using polygons in maps api
 * [Start-map](https://start-map.herokuapp.com) - Startup company map 
+
+## Random 
+
+* [Reddit clone like](http://blairanderson.github.io/rails-hackernews-reddit-producthunt-clone) - Start your own social link-sharing website. Built with ruby-on-rails.
+* [Solesout](http://www.solesout.com) - Listings, and images for those listings. 
+
 
 
 ## Other-awesome-lists 
