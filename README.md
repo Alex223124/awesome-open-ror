@@ -29,6 +29,9 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 
 * [Gluttonberg](https://github.com/Gluttonberg/core) - is an Open Source CMS
 
+## 
+
+* [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails. 
 
 ## Crowdfunding 
 
@@ -95,9 +98,6 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 
 * [Ostio](https://github.com/paulmillr/ostio-api) - Your open-source talks place. Rails backend. 
 
-
-
-
 ## Sharing 
 
 * [Madek](https://github.com/zhdk/madek) - Madek is a super-fancy system for sharing and cataloging images, video, audio and documents.
@@ -121,8 +121,12 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 
 * [Reddit clone like](http://blairanderson.github.io/rails-hackernews-reddit-producthunt-clone) - Start your own social link-sharing website. Built with ruby-on-rails.
 * [Solesout](http://www.solesout.com) - Listings, and images for those listings. 
+* [Wedding-on-rails](https://github.com/adambutler/wedding-on-rails) - Wedding website  
+* [Kevlar](https://github.com/adambutler/kevlar) - Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server. 
+* [Poll](https://github.com/adambutler/poll) - Voting done simply in real-time 
 
 
+ 
 
 ## Other-awesome-lists 
 
