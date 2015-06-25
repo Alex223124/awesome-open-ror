@@ -11,6 +11,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/contributors).
 
 * [Awesome ROR](#awesome-ror)
+  * [CMS](#cms)
   * [Crowdfunding](#crowdfunding)
   * [Community Support](#community-support)
   * [Sports](#sports)
@@ -23,6 +24,11 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
   * [Random](#random)
 
 * [Other Awesome Lists](#other-awesome-lists)
+
+## CMS
+
+* [Gluttonberg](https://github.com/Gluttonberg/core) - is an Open Source CMS
+
 
 ## Crowdfunding 
 
@@ -81,10 +87,21 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 * [Asakusa Satellite](http://www.codefirst.org/AsakusaSatellite) - A realtime chat application for developers 
 * [Tracks App](https://github.com/TracksApp/tracksapp.github.com) - Get things done right way
 * [TW Email Generator](https://github.com/andrewshawcare/thoughtworks-email-signature-generator) - Email signature generator
+* [Review Site](https://github.com/ReviewSite/ReviewSite) - Rails app to track reviews for Associate Consultants
+* [Business Finance Suppot Finder](https://www.gov.uk/business-finance-support-finder) - Faceted search application for finding business support and finance options
+* [OpenProject](https://www.openproject.org) - is a web-based project management system built on Ruby on Rails 
+
+## Dev-help 
+
+* [Ostio](https://github.com/paulmillr/ostio-api) - Your open-source talks place. Rails backend. 
+
+
+
 
 ## Sharing 
 
 * [Madek](https://github.com/zhdk/madek) - Madek is a super-fancy system for sharing and cataloging images, video, audio and documents.
+* [Ruby Gems](https://rubygems.org)The Ruby community's gem hosting service. 
 
 ## Dashboard 
 
