@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/itmilos/awesome-open-ror/graphs/
 
 ## Community-support 
 
+* [Otvorenesudy](https://github.com/otvorenesudy/otvorenesudy) - Open Courts Rails application
 * [Teikei](https://github.com/teikei/teikei) - A web application for managing groups and farmers following the idea of community-supported agriculture.
 * [Neighborly](https://github.com/neighborly/) - Community Investment Marketplace 
 * [Bikeindex](https://github.com/bikeindex/bike_index) - Bicycle Incident reporting
